@@ -16,17 +16,16 @@ If the beam remains broken for more than 2000 milliseconds the car is "armed" fo
 If the car is "armed" and the starting pin drops, the IR beam is once again continuous, and the motor accelerates to full power for a specified time.  After this time, the car cannot be re-armed until the power has been removed and reapplied or the reset button on the Arduino has been pressed for safety.
 
 ## Parts List
-| Description                         | Price  |
-| ----------------------------------- | ------:|
-| Dr. Mad Thrust 40mm EDF             | $25 |
-| HobbyKing 30A ESC                   | $8 |
-| Turnigy Graphene 800mAh 3S 45C LIPO | $8 |
-| XT60 Connector                      | $1 |
-| Shipping (China)                    | $20 |
-| Adafruit Trinket 5V                 | $7 |
-| IR 3mm Beam Sensor                  | $2 |
-| Shipping (Adafruit)                 | $4 |
-| **Total**                           | **$75** |
+| Description                            | Price  |
+| -------------------------------------- | ------:|
+| Poerfun 4300KV Ducted Fan with 40A ESC | $49 |
+| Tattu 650mAh 4s 75C LIPO               | $16 |
+| XT60 Connector                         | $1 |
+| Adafruit Trinket 5V                    | $7 |
+| IR 3mm Beam Sensor                     | $2 |
+| Shipping (Amazon)                      | $0 |
+| Shipping (Adafruit)                    | $5 |
+| **Total**                              | **$80** |
 
 ## Library Dependencies
 Adafruit SoftServo - https://github.com/adafruit/Adafruit_SoftServo
