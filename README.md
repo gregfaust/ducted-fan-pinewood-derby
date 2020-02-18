@@ -1,5 +1,5 @@
 # BSA EDF Pinewood Derby Car
-![Alt text](media/car.png?raw=true "Car")
+![Alt text](media/car.jpg?raw=true "Car")
 
 My sons and I made an "outlaw" pinewood derby car for fun and to compete at the highest level at the 2020 BSA Goose Creek District Pinewood Derby.  The outlaw class is a new class for Goose Creek District Pinewood Derby.  I'll include a copy of the rules here for posterity.  The goal is to have fun, be safe, and spark an interest in engineering for the scouts.
 
@@ -37,7 +37,8 @@ Adafruit has a lot of great tutorials on getting up and running with a Trinket A
 
 ## Additional Pictures
 ![Car1](media/car1.jpg?raw=true "Car1")
-![Car2](media/car2.jpeg?raw=true "Car2")
-![Car3](media/car3.jpeg?raw=true "Car3")
-![Car4](media/car4.jpeg?raw=true "Car4")
-![Car5](media/car5.jpeg?raw=true "Car5")
+![Car2](media/car2.jpg?raw=true "Car2")
+![Car3](media/car3.jpg?raw=true "Car3")
+![Car4](media/car4.jpg?raw=true "Car4")
+![Car5](media/car5.jpg?raw=true "Car5")
+![Car6](media/qr-code.png?raw=true "Car6")
