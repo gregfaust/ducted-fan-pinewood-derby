@@ -11,7 +11,7 @@ Adafruit_SoftServo esc;
 #define IRBEAMPIN 2                         // IR beam input pin
 
 #define OFFSPEED    0                       // Lowest ESC speed (range 0-180)
-#define STAGEDSPEED 45                      // ESC speed when staged before race start
+#define STAGEDSPEED 40                      // ESC speed when staged before race start
 #define RACINGSPEED 180                     // Maximum ESC speed when race start detected
 
 #define MINIMUMSTAGEDDURATION 2000          // Minimum duration car must be stage to enter race mode in milliseconds
