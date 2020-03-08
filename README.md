@@ -5,8 +5,7 @@ My sons and I made an "outlaw" pinewood derby car for fun and to compete at the 
 
 I wanted the car to turn on and off by itself for safety and so that I didn't have to be at the starting line to press a button or deal with mechanical switches that might break.  The EDF makes more than enough thrust for vertical takeoff and I'm hoping that the perfect reaction timing will make it faster than any CO2 car at the races.  The control logic is only around 90 lines of code and contains a bug that I didn't fix, see if you can spot it.  Hint, the tinker will arm if the beam sensors are not aimed at each other when powered on during bench testing.  Note, we are absolutely abusing the battery pack and I would not recommend this setup for an airplane.  We only need 1.5 seconds of thrust for this application so we can make a tradeoff on the lightweight 4S battery.  I also removed the heat sink from the ESC to save weight.  Maybe next year will be 6S ¯\_(ツ)_/¯
 
-## Video
-[![EDF POWERED PINEWOOD DERBY CAR](https://img.youtube.com/vi/T1Uv3ryk6NY/0.jpg)](https://www.youtube.com/watch?v=T1Uv3ryk6NY)
+Note to self:  Bring a laptop next year.  When we raced we were not able to keep the car on the track at 100% power to be able to complete a race.  Need to test 25%, 50% & 75% power to get an idea of what would be able to stay on the track.
 
 ## Controls Overview
 When the IR beam is broken by the track's starting pin, the motor initially spins at a programmable lower speed.
